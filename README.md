@@ -18,22 +18,22 @@ Below is a description of each uploaded lesson
 
  **MAIN CLASS**
  > **Lecturer: Fereshteh Davoodian**
-- **LL01: Introduction**
+- **1: Introduction**
   - 🔹 
 
-- **LL02: **
-  - 🔹 
-  - 🔹 
-
-- **LL03: **
+- **2: **
   - 🔹 
   - 🔹 
 
-- **LL04: **
+- **3: **
+  - 🔹 
+  - 🔹 
+
+- **4: **
   - 🔹 
   - 🔹
 
-- **LL05: **
+- **5: **
   - 🔹
 
 
@@ -43,22 +43,22 @@ Below is a description of each uploaded lesson
  
  **ADVANCED CLASS**
  > **Lecturer: Ali Pilehvar Meibody**
-- **LL01: Introduction**
+- **1: Introduction**
   - 🔹 
 
-- **LL02: **
-  - 🔹 
-  - 🔹 
-
-- **LL03: **
+- **2: **
   - 🔹 
   - 🔹 
 
-- **LL04: **
+- **3: **
+  - 🔹 
+  - 🔹 
+
+- **4: **
   - 🔹 
   - 🔹
 
-- **LL05: **
+- **5: **
   - 🔹 
   - 🔹
  
