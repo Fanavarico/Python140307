@@ -1,4 +1,4 @@
-# fanavarico
+# Fanavarico
 
 # 🐍 **Python - Tutorial : SEP2024**
 > **Lecturer: Fereshteh Davoodian & Ali Pilehvar Meibody**
@@ -38,7 +38,7 @@ Below is a description of each uploaded lesson
 
 
 
-
+---
 
  
  **ADVANCED CLASS**
