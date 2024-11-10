@@ -1,6 +1,7 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+
 """
+In The Name Of GOD
+
 Created on Sun Nov 10 17:49:33 2024
 
 @author: apm
