@@ -847,15 +847,3 @@ aya taeed mikoni ya na -->yes no
 
 
 
-
-
-
-'''
-
-
-
-code=input('salam code mahsooleton ro begid:')
-name=input('lotfan esme mahsooleton ro begid:')
-price=input('lotfan gheymate mahsooleton ro begid')
-
-'''
