@@ -9,28 +9,6 @@ Created on Sun Nov  3 17:53:05 2024
 
 @author: apm
 
-
-Strings
-
-List 
-
-Functions --> Review
-
-
-Python --> language between human / machine
-
-
-Like other languages
-
-Grammar
-vocab (kalame)
-
-
-
-1-Python built in function -->narenji print() input() type() len()
-2-Keywords --> if , else, for , while , .... banafsh
-3--> variable --> sefid -->esme zarf
-
 """
 
 
