@@ -11,6 +11,35 @@ L4_ADV_Attend
 
 """
 
+
+
+'''
+
+
+#--------python --> zaban beyne
+ensan --> python --> machine
+
+python mig eman 3 ta chiz msihnazsa
+python mige man yeseri kalamato reserv daram k 3 bakhshe......
+
+
+
+3 ghesmat
+1--> python built in funciton (tabe haye dakhelie python) (print(),input(),len(),type())
+2--->keywords---->dastoorat , logic (mantegh)--> if , else , for , while , def , class, ....
+3----->variables
+
+
+#harchi joz in do mored beman dadii--> man variable dar nazar migirm
+moteghayer---> zarf
+
+zarf --> zakhire
+
+zarf--> esm --> mohtava dare
+
+hala to tooye zarf chia mitoni brizi?
+
+'''
 #-------------(1)----------------------
 print('salam man baraye namayesham')
 a=input('salam man baraye gereftanam')
