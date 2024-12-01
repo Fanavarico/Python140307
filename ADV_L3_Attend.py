@@ -613,9 +613,6 @@ result=jam(5,6)
 
 #TypeError: jam() takes 2 positional arguments but 3 were given
 
-
-
-
 def persian_to_english_numb(persian_numb):
     price_list=[]
     for i in persian_numb:
@@ -665,8 +662,6 @@ def confirmation(answer):
 
 
 #-----code nahaeee------------
-
-
 
 code=input('salam code mahsooleton ro begid:')
 name=input('lotfan esme mahsooleton ro begid:')
@@ -854,5 +849,13 @@ aya taeed mikoni ya na -->yes no
 
 
 
+
+'''
+
+
+
+code=input('salam code mahsooleton ro begid:')
+name=input('lotfan esme mahsooleton ro begid:')
+price=input('lotfan gheymate mahsooleton ro begid')
 
 '''
