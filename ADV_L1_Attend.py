@@ -44,8 +44,6 @@ esme zarf
 '''
 
 #Jalase ye avale advanced--------
-
-
 print()
 input()
 #if
@@ -105,14 +103,10 @@ len()
 
 
 #vaghy mikhay yechizi ro namayehs bdi aaz print estefade mikone
-
-
 print(4)
 
 
 print('salam arz shod')
-
-
 #ghalaat XXXXX
 print(salam arz shod)
 
@@ -146,7 +140,6 @@ Python ---> another language (yek zabane)
 2- python built in function ( print, input , len , type), keywords ( if , for , else , ....)
 
 1-----> zarf --> 1.1 adad (int,float,complex)  1.2str (kalame, harf , jomle)
-
 '''
 #1--->adad
 a=20
@@ -194,7 +187,6 @@ print(c) ###8000
 a=ali
 #zarfi drm b esm,e a
 #ali ro tosh mikham
-
 a= 'ali'
 
 #------chandta horof dare str e ma?
@@ -221,7 +213,6 @@ print('salam') #salam
 #az karbar ychizi migire
 #va in pass mide
 #jolosh y zarf bzari zakhirash koni
-
 input('salam seneton cheghadre:')
 
 
@@ -303,7 +294,6 @@ print(a,b)
 print(a + b)
 #salamkhoobi
 
-
 #default--> pish farz--> az gamma estefade koni
 
 
@@ -359,9 +349,6 @@ print()
 #tabe haye pishrafte dakhele giome kh dastressi bht midan
 
 
-
-
-
 #------------str------------
 a='salam'
 
@@ -391,7 +378,6 @@ a[0:4] #0 1 2 3 'sala'
 a='salam'
 
 #bozorg konam
-
 #dot esme tabe () esme tae
 #*****esme tabe omd -->parantez
 
@@ -452,10 +438,6 @@ masaelio hal konim ---> applicable --> karbodi hast
 
 '''
 
-
-
-
-
 '''
 
 Applications-----
@@ -467,9 +449,4 @@ Applications-----
 
 
 '''
-
-
-
-
-
 
