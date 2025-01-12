@@ -15,6 +15,10 @@ print(type(a))
 #<class 'str'>
 
 
+
+
+
+
 #---> str--> namayeshe matn
 
 
