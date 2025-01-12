@@ -1,5 +1,4 @@
 
-
 """
 In The Name Of GOD
 Created on Sun Oct 13 18:36:10 2024
@@ -11,6 +10,7 @@ email: --> telegram
 emergency --> alipilehvar1999@gmail.com
 
 """
+
 
 '''
 
@@ -42,7 +42,6 @@ rangi mishan
 esme zarf
 
 '''
-
 #Jalase ye avale advanced--------
 print()
 input()
@@ -100,8 +99,6 @@ input()
 type()
 len()
 #.........
-
-
 #vaghy mikhay yechizi ro namayehs bdi aaz print estefade mikone
 print(4)
 
@@ -144,7 +141,6 @@ Python ---> another language (yek zabane)
 #1--->adad
 a=20
 b=3
-
 '''
 + jam
 - menha
@@ -195,8 +191,6 @@ a= 'ali'
 b='alipilehvarmeibody'
 
 len(b) #18
-
-
 #---input
 #print()
 
@@ -254,8 +248,6 @@ print(vazn)
 vazn=float(input('vazneto begoo:'))
 
 print(vazn) #45.5 40.0
-
-
 
 #--------
 print()
