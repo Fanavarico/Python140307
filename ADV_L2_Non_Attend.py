@@ -11,8 +11,6 @@ Created on Sun Nov  3 17:53:05 2024
 
 """
 
-
-
 '''
 
 Strings
@@ -104,9 +102,6 @@ while
 #banafsha
 #if --> agar
 #for , while --> tekrar 
-
-
-
 
 #harchize dg ee benevisi inaj --> yek zarf dar nazar migire
 #sefides-->zarf -->variable (moteghayer) megdhar (value brizi)
