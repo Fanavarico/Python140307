@@ -26,9 +26,6 @@ len(b) #18
 
 c='ali '
 len(c) #4
-
-
-
 #product = []
 
 text='''
