@@ -1,9 +1,9 @@
-
 """
 In The Name Of GOD
 Created on Sun Oct 20 17:55:13 2024
 
 @author: apm
+
 
 
 """
@@ -110,9 +110,9 @@ adad, horof -.zakhire
 chanta hcizo zakhire konam chi>
 
 
-
-
 '''
+
+
 
 a=[10,20,30,40]
 a=[10,'sds',True,1423.2 , 43j]
