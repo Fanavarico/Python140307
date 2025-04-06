@@ -8,6 +8,7 @@ Created on Sat Jan 25 17:34:06 2025
 @author: Ali Pilehvar Meibody
 
 
+
 ============FINAL PROJECT==============
 Objective: Designing and developing IOT Management GUI panel for smart house 
 
