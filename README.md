@@ -1,92 +1,46 @@
-# Fanavarico
+# Python140307
+www.fanavari.co project for students in September 2024
 
-# 🐍 **Python - Tutorial : SEP2024**
-> **Lecturer: Fereshteh Davoodian & Ali Pilehvar Meibody**
->
-> 
-> **Note:** All comment desciption within code files written in Persian.
->
-> ---
+# Python Class Repository
 
-## 📝 **Overview**
+Welcome 👋  
 
-This repository serves as a **comprehensive guide** for **professionals** who want to delve into **Python programming** and **data analysis**. The lessons start with **basic Python concepts**, progress into **data analysis** using libraries such as **NumPy**, **Pandas**, and **Matplotlib** with practical engineering examples.
+This repository contains the Python codes we write during our class sessions.  
+Each session has its own folder, and inside you will find the related code examples we created on that day.  
 
----
-## 📖 **Lessons**
-Below is a description of each uploaded lesson
+## Structure
+- `Session 1/` → Code from the first session  
+- `Session 2/` → Code from the second session  
+- ...and so on  
 
- **MAIN CLASS**
- > **Lecturer: Fereshteh Davoodian**
-- **1: Introduction**
-  - 🔹 
-
-- **2: **
-  - 🔹 
-  - 🔹 
-
-- **3: **
-  - 🔹 
-  - 🔹 
-
-- **4: **
-  - 🔹 
-  - 🔹
-
-- **5: **
-  - 🔹
-
-
+## Purpose
+This repository is for students to:
+- Review what we learned in class  
+- Practice Python by running and modifying the examples  
+- Track progress across sessions  
 
 ---
 
- 
- **ADVANCED CLASS**
- > **Lecturer: Ali Pilehvar Meibody**
-- **1: Introduction**
-  - 🔹 
+✨ Keep learning, keep coding, and enjoy Python!
 
-- **2: **
-  - 🔹 
-  - 🔹 
-
-- **3: **
-  - 🔹 
-  - 🔹 
-
-- **4: **
-  - 🔹 
-  - 🔹
-
-- **5: **
-  - 🔹 
-  - 🔹
- 
----
-
-## ⚙️ **Installation**
-
-To use the materials in this repository, make sure you have the following installed:
-
-- **Python 3.x**
-- **NumPy**
-- **Pandas**
-- **Matplotlib**
-- **Scikit-learn**
-
-Install the libraries by running:
-
-```bash
-pip install numpy pandas matplotlib scikit-learn
-```
----
+licenced by fanavari.co
 
 
 
+ دوره آموزش پایتون — مهر 1403
+برگزارکننده: fanavari.co
 
-## 💾 **How to Get Started**
+مدرس: خانم مهندس فرشته داودیان - آقای مهندس علی پیله ور میبدی تاریخ شروع: مهر 1403 سطح دوره: مقدماتی تا پیشرفته
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/Fanavarico/Python140307.git
----
+📁 ساختار مخزن
+این مخزن شامل کدها و تمرین‌های دوره آموزش پایتون است که در جلسات حضوری و غیرحضوری ارائه شده‌اند:
+
+🧰 پیش‌نیازها
+برای اجرای کدهای این دوره، نیاز به نصب موارد زیر دارید:
+
+Python 3.10 یا بالاتر
+📬 ارتباط با ما در صورت وجود هرگونه سوال یا پیشنهاد، می‌توانید از طریق بخش Issues در این مخزن با ما در ارتباط باشید.
+
+🌐 درباره fanavari.co خانه فناوری تهران، ارائه‌دهنده آموزش‌های تخصصی برنامه‌نویسی، طراحی سایت و مسیرهای رشد مهارتی برای فارسی‌زبانان در داخل و خارج از کشور است.
+
+📎 وب‌سایت رسمی: www.fanavari.co با آرزوی موفقیت در مسیر یادگیری پایتون! 🐍 این مخزن برای استفاده آموزشی در دوره‌های fanavari.co تهیه شده است.
